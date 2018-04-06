@@ -1,0 +1,87 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  pwd
+    7  ls
+    8  ls-a d
+    9  ls -a d
+   10  ls -a documentos
+   11  ls -a Documentos
+   12  ls
+   13  pwd
+   14  cd
+   15  cd :
+   16  ls
+   17  pwd
+   18  cd :
+   19  cidi :
+   20  cd :
+   21  cd ..
+   22  cd ..a
+   23  cd a..
+   24  cd: alumno/
+   25  cd ..
+   26  pwd
+   27  ls
+   28  cdetc
+   29  cd etc
+   30  ls
+   31  ls ap*
+   32  ls up*
+   33  cd ..
+   34  pwd
+   35  cd home/alumno/
+   36  pwd
+   37  touch mirchivo
+   38  ls
+   39  ls -l
+   40  tree
+   41  mkdir Principal
+   42  ls
+   43  ls -l
+   44  mkdir principal/Persona
+   45  mkdir Principal/Persona
+   46  tree
+   47  cd Principal/
+   48  mkdir ../Secundario
+   49  ls -l
+   50  ls
+   51  cd ..
+   52  tree
+   53  cd ..Principal/Persona
+   54  cd Principal/Persona/
+   55  mkdir ../../Secundario/Alumno
+   56  tree
+   57  cd ..
+   58  ped
+   59  pwd
+   60  mkdir /uno/unoa
+   61  mkdir -p /uno/unoA
+   62  mkdir -P /uno/unoa
+   63  mkdir -p/uno/unoa
+   64  mkdir-p /uno/unoa
+   65  mkdir -p /uno/unoa
+   66  mkdir -p uno/unoa
+   67  mkdir -p APP/{funciones/logica,funciones/variable, estilos}
+   68  tree
+   69  rm -r APP/
+   70  tree
+   71  rm -r estilos}/
+   72  tree
+   73  mkdir -p APP/{Estilos,Funciones/Logica,Funciones/Variables}
+   74  tree
+   75  mkdir -p Codigo/{Java,C,PHP}/Fuentes
+   76  tree
+   77  mkdir -p Dato/{Personales/Publicos/Bakckup,Personales/Privados/Backup,Fiscales/Afip/Pagos,Fiscales/Afip/Pagos}
+   78  tree
+   79  rm -r Dato/
+   80  mkdir -p Dato/{Personales/Publicos/Bakckup,Personales/Privados/Backup,Fiscales/Afip/Pagos,Fiscales/Afip/Pagos,Fiscales/Arba/Pagos}
+   81  tree
+   82  mkdir -p ../Secundario/Dato/{Personales/Publicos,Personales/Privados}/Backup{Fiscales/Afip,Fiscales/Arba}/Pagos
+   83  tree
+   84  cd ../Secundario/
+   85  tree
+   86  history
+   87  history > historial.utn
