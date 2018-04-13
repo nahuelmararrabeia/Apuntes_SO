@@ -1,0 +1,51 @@
+    1  df -h
+    2  sudo su -
+    3  ifconfig
+    4  ping 8.8.8.8
+    5  sudo su
+    6  mkdir -p Dato/{Personales/Publicos/Bakckup,Personales/Privados/Backup,Fiscales/Afip/Pagos,Fiscales/Afip/Pagos,Fiscales/Arba/Pagos}
+    7  tree
+    8  rm -r Dato/
+    9  tree
+   10  mkdir -p Principal
+   11  tree
+   12  cd Principal/
+   13  pwd
+   14  mkdir -p Dato/{Personales/Publicos/Bakckup,Personales/Privados/Backup,Fiscales/Afip/Pagos,Fiscales/Afip/Pagos,Fiscales/Arba/Pagos}
+   15  tree
+   16  cd ../
+   17  tree
+   18  rm -r Principal/
+   19  sudo su
+   20  sudo su -
+   21  history
+   22  sudo su ls -l
+   23  sudo su
+   24  pwd
+   25  eco "hola consola"
+   26  echo "hola consola"
+   27  ls -l
+   28  echo "hola mundo consola">saludar.txt
+   29  ls -l
+   30  cat saludar.txt 
+   31  echo "borro lo anterior">saludar
+   32  cat saludar
+   33  echo "continuando con lo anterior">>saludar
+   34  cat saludar
+   35  md5 zoom saludar
+   36  md5zoom saludar
+   37  md5sum saludar
+   38  sha256sum saludar
+   39  echo sha256sum saludar>hash.txt
+   40  cat hash.txt
+   41  rm -r hash.txt
+   42  sha256sum sum>hash.txt
+   43  touch hash.txt
+   44  sha256sum sum>hash.txt
+   45  rm -r hash.txt
+   46  history
+   47  history>historial.txt
+   48  sha256sum saludar>hash.txt
+   49  cat hash.txt 
+   50  rm -r historial.txt 
+   51  history>historial.txt
