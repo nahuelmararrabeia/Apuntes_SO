@@ -1,0 +1,4 @@
+folderBrowserDialog
+directory.exists
+Directory.GetFiles(textBox1.Text,"*.txt",SearchOption.AllDirectories))
+file.opentext

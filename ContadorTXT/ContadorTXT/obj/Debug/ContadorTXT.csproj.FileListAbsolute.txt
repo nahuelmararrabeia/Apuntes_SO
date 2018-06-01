@@ -1,0 +1,8 @@
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\bin\Debug\ContadorTXT.exe.config
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\obj\Debug\ContadorTXT.Form1.resources
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\obj\Debug\ContadorTXT.Properties.Resources.resources
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\obj\Debug\ContadorTXT.csproj.GenerateResource.Cache
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\bin\Debug\ContadorTXT.exe
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\bin\Debug\ContadorTXT.pdb
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\obj\Debug\ContadorTXT.exe
+C:\Users\NMARARRABEIA\Desktop\ContadorTXT\ContadorTXT\obj\Debug\ContadorTXT.pdb
